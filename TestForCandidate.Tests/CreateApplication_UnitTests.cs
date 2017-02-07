@@ -32,6 +32,33 @@ namespace TestForCandidate.Tests
 
             Assert.AreEqual(creationResult, CreationResult.ThereIsActiveApplication);
         }
-        
+
+        [TestMethod]
+        public void Is_Amount_Or_Period_Out_Of_Range_Return_Forbidden()
+        {
+            TestIdentity testIdentity = new TestIdentity();
+            IIdentityProvider identityProvider = Mock.Of<IIdentityProvider>(i => i.IsAuthenticated() == true && i.GetIdentity() == testIdentity);
+            IApplicationRepository applicationRepository = Mock.Of<IApplicationRepository>();
+
+            ApplicationService appService = new ApplicationService(identityProvider, applicationRepository);
+            CreationResult creationResult1 = appService.CreateApplication(1001, 1);
+            CreationResult creationResult2 = appService.CreateApplication(1, 31);            
+
+            Assert.AreEqual(creationResult1, CreationResult.Forbidden);
+            Assert.AreEqual(creationResult2, CreationResult.Forbidden);           
+        }
+
+        [TestMethod]
+        public void Is_Correct_Arguments_Return_Success()
+        {
+            TestIdentity testIdentity = new TestIdentity { Id = 100, Name = "myIdentity" };
+            IIdentityProvider identityProvider = Mock.Of<IIdentityProvider>(i => i.IsAuthenticated() == true && i.GetIdentity() == testIdentity);
+            IApplicationRepository applicationRepository = Mock.Of<IApplicationRepository>();
+
+            ApplicationService appService = new ApplicationService(identityProvider, applicationRepository);
+            CreationResult creationResult = appService.CreateApplication(1, 1);
+
+            Assert.AreEqual(creationResult, CreationResult.Success);
+        }
     }
 }
