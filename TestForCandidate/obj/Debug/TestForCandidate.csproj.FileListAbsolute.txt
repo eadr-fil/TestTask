@@ -1,0 +1,10 @@
+D:\Dima\GoogleDisk\Programming\Test Task\TestForCandidate\TestForCandidate\bin\Debug\TestForCandidate.dll
+D:\Dima\GoogleDisk\Programming\Test Task\TestForCandidate\TestForCandidate\bin\Debug\TestForCandidate.pdb
+D:\Dima\GoogleDisk\Programming\Test Task\TestForCandidate\TestForCandidate\obj\Debug\TestForCandidate.csprojResolveAssemblyReference.cache
+D:\Dima\GoogleDisk\Programming\Test Task\TestForCandidate\TestForCandidate\obj\Debug\TestForCandidate.dll
+D:\Dima\GoogleDisk\Programming\Test Task\TestForCandidate\TestForCandidate\obj\Debug\TestForCandidate.pdb
+D:\Dima\GoogleDrive\Programming\Test Task\TestForCandidate\TestForCandidate\bin\Debug\TestForCandidate.dll
+D:\Dima\GoogleDrive\Programming\Test Task\TestForCandidate\TestForCandidate\bin\Debug\TestForCandidate.pdb
+D:\Dima\GoogleDrive\Programming\Test Task\TestForCandidate\TestForCandidate\obj\Debug\TestForCandidate.csprojResolveAssemblyReference.cache
+D:\Dima\GoogleDrive\Programming\Test Task\TestForCandidate\TestForCandidate\obj\Debug\TestForCandidate.dll
+D:\Dima\GoogleDrive\Programming\Test Task\TestForCandidate\TestForCandidate\obj\Debug\TestForCandidate.pdb

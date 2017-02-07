@@ -1,0 +1,36 @@
+D:\Dima\GoogleDisk\Programming\Test Task\TestForCandidate\TestForCandidate.Tests\bin\Debug\TestForCandidate.Tests.dll
+D:\Dima\GoogleDisk\Programming\Test Task\TestForCandidate\TestForCandidate.Tests\bin\Debug\TestForCandidate.Tests.pdb
+D:\Dima\GoogleDisk\Programming\Test Task\TestForCandidate\TestForCandidate.Tests\bin\Debug\Castle.Core.dll
+D:\Dima\GoogleDisk\Programming\Test Task\TestForCandidate\TestForCandidate.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Dima\GoogleDisk\Programming\Test Task\TestForCandidate\TestForCandidate.Tests\bin\Debug\Moq.dll
+D:\Dima\GoogleDisk\Programming\Test Task\TestForCandidate\TestForCandidate.Tests\bin\Debug\TestForCandidate.dll
+D:\Dima\GoogleDisk\Programming\Test Task\TestForCandidate\TestForCandidate.Tests\bin\Debug\TestForCandidate.pdb
+D:\Dima\GoogleDisk\Programming\Test Task\TestForCandidate\TestForCandidate.Tests\bin\Debug\Castle.Core.xml
+D:\Dima\GoogleDisk\Programming\Test Task\TestForCandidate\TestForCandidate.Tests\bin\Debug\Moq.xml
+D:\Dima\GoogleDisk\Programming\Test Task\TestForCandidate\TestForCandidate.Tests\obj\Debug\TestForCandidate.Tests.csprojResolveAssemblyReference.cache
+D:\Dima\GoogleDisk\Programming\Test Task\TestForCandidate\TestForCandidate.Tests\obj\Debug\TestForCandidate.Tests.dll
+D:\Dima\GoogleDisk\Programming\Test Task\TestForCandidate\TestForCandidate.Tests\obj\Debug\TestForCandidate.Tests.pdb
+D:\Dima\GoogleDrive\Programming\Test Task\TestForCandidate\TestForCandidate.Tests\bin\Debug\TestForCandidate.Tests.dll
+D:\Dima\GoogleDrive\Programming\Test Task\TestForCandidate\TestForCandidate.Tests\bin\Debug\TestForCandidate.Tests.pdb
+D:\Dima\GoogleDrive\Programming\Test Task\TestForCandidate\TestForCandidate.Tests\bin\Debug\Castle.Core.dll
+D:\Dima\GoogleDrive\Programming\Test Task\TestForCandidate\TestForCandidate.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Dima\GoogleDrive\Programming\Test Task\TestForCandidate\TestForCandidate.Tests\bin\Debug\Moq.dll
+D:\Dima\GoogleDrive\Programming\Test Task\TestForCandidate\TestForCandidate.Tests\bin\Debug\TestForCandidate.dll
+D:\Dima\GoogleDrive\Programming\Test Task\TestForCandidate\TestForCandidate.Tests\bin\Debug\TestForCandidate.pdb
+D:\Dima\GoogleDrive\Programming\Test Task\TestForCandidate\TestForCandidate.Tests\bin\Debug\Castle.Core.xml
+D:\Dima\GoogleDrive\Programming\Test Task\TestForCandidate\TestForCandidate.Tests\bin\Debug\Moq.xml
+D:\Dima\GoogleDrive\Programming\Test Task\TestForCandidate\TestForCandidate.Tests\obj\Debug\TestForCandidate.Tests.csprojResolveAssemblyReference.cache
+D:\Dima\GoogleDrive\Programming\Test Task\TestForCandidate\TestForCandidate.Tests\obj\Debug\TestForCandidate.Tests.dll
+D:\Dima\GoogleDrive\Programming\Test Task\TestForCandidate\TestForCandidate.Tests\obj\Debug\TestForCandidate.Tests.pdb
+D:\Dima\GoogleDisk\Programming\TestRepo\TestForCandidate.Tests\bin\Debug\TestForCandidate.Tests.dll
+D:\Dima\GoogleDisk\Programming\TestRepo\TestForCandidate.Tests\bin\Debug\TestForCandidate.Tests.pdb
+D:\Dima\GoogleDisk\Programming\TestRepo\TestForCandidate.Tests\bin\Debug\Castle.Core.dll
+D:\Dima\GoogleDisk\Programming\TestRepo\TestForCandidate.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Dima\GoogleDisk\Programming\TestRepo\TestForCandidate.Tests\bin\Debug\Moq.dll
+D:\Dima\GoogleDisk\Programming\TestRepo\TestForCandidate.Tests\bin\Debug\TestForCandidate.dll
+D:\Dima\GoogleDisk\Programming\TestRepo\TestForCandidate.Tests\bin\Debug\TestForCandidate.pdb
+D:\Dima\GoogleDisk\Programming\TestRepo\TestForCandidate.Tests\bin\Debug\Castle.Core.xml
+D:\Dima\GoogleDisk\Programming\TestRepo\TestForCandidate.Tests\bin\Debug\Moq.xml
+D:\Dima\GoogleDisk\Programming\TestRepo\TestForCandidate.Tests\obj\Debug\TestForCandidate.Tests.csprojResolveAssemblyReference.cache
+D:\Dima\GoogleDisk\Programming\TestRepo\TestForCandidate.Tests\obj\Debug\TestForCandidate.Tests.dll
+D:\Dima\GoogleDisk\Programming\TestRepo\TestForCandidate.Tests\obj\Debug\TestForCandidate.Tests.pdb
